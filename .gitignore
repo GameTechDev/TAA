@@ -1,0 +1,8 @@
+
+*.obj
+*.pch
+*.pdb
+*.filters
+MiniEngine/Build_VS16
+MiniEngine/ModelViewer/.vs
+/.vs
